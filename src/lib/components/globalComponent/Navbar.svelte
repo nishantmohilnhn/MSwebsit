@@ -5,7 +5,7 @@
 	}
 </script>
 
-<div class=" sticky top-0 w-full bg-white backdrop-blur-lg bg-opacity-30">
+<div class=" sticky top-0 w-full bg-white backdrop-blur-lg bg-opacity-60">
 	<div class="items-center justify-between sm:flex lg:justify-around">
 		<div class="flex items-center justify-between">
 			<a class="m-1 flex shrink-0 items-center gap-1 p-1" href="/">
