@@ -1,5 +1,5 @@
-<div class="bg-cover bg-no-repeat bg-center bacImg  min-h-screen">
- 
+<div class="bg-cover bg-no-repeat bg-center bacImg  min-h-screen relative">
+   
 </div>
 <style>
 .bacImg{
