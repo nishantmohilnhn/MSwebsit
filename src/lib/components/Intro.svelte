@@ -1,4 +1,4 @@
-<div class="yooyo min-h-screen bg-cover bg-no-repeat bg-fixed bg-center">
+<div class="yooyo min-h-screen bg-cover bg-no-repeat  bg-center">
 	<div class="  text-5xl w-full h-full">
 		<div>
 			<p class="pt-20 text-center text-4xl font-extrabold text-my-nvy1 md:text-6xl">
@@ -13,6 +13,7 @@
 		</div>
 	</div>
 </div>
+
 
 <style>
     .yooyo{
