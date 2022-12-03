@@ -5,7 +5,7 @@
 	}
 </script>
 
-<div class=" sticky top-0 w-full bg-white backdrop-blur-lg bg-opacity-60 z-50">
+<div class=" sticky top-0 w-full bg-white backdrop-blur-lg bg-opacity-80  sm:bg-opacity-60 z-50">
 	<div class="items-center justify-between sm:flex lg:justify-around">
 		<div class="flex items-center justify-between">
 			<a class="m-1 flex shrink-0 items-center gap-1 p-1" href="/">
@@ -128,7 +128,7 @@
 			<a
 				on:click={bawa}
 				class="flex  gap-1 focus:outline-none hover:text-teal-500 justify-end items-center pr-6 text-right  text-base sm:pr-0 pb-2 sm:pb-0"
-				href="/Getintouch"
+				href="/contact"
 			>
 				Get in Touch
 				<svg

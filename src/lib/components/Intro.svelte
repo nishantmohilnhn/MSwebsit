@@ -1,36 +1,32 @@
-<div class=" relative yooyo min-h-screen bg-cover bg-no-repeat  bg-center">
-	<div class="  text-5xl w-full h-full ">
-		<div>
-			<p class="pt-20 text-center text-4xl font-extrabold md:text-6xl bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-my-nvy1">
-				Grow your business,<br />Succeed with Us.
-			</p>
-			<div class="mt-2 flex justify-center flex-wrap gap-3 ">
-				<p class="text-center px-1 text-2xl font-light text-my-nvy1">Project consultancy</p>
-				<p class="text-center px-1 text-2xl font-light text-my-nvy1">Product Design</p>
-				<p class="text-center px-1 text-2xl font-light text-my-nvy1">Machine Design</p>
-			</div>
-			<p class="text-center text-2xl font-thin text-my-nvy1 pb-16">And much more.</p>
+<div class="yooyo relative min-h-screen bg-cover bg-center bg-no-repeat pt-20">
+	<div class="h-full w-full text-5xl">
+	  <div>
+		<p class="text-center text-sm font-semibold text-my-nvy1">Personal Hygiene Solution</p>
+		<p class="bg-gradient-to-r from-my-nvy1 to-pink-800 bg-clip-text text-center text-4xl font-extrabold text-transparent md:text-6xl">Grow your business,<br />Succeed with Us.</p>
+		<div class="mt-2 flex flex-wrap justify-center gap-3">
+		  <p class="px-1 text-center text-2xl font-light text-my-nvy1">Project consultancy</p>
+		  <p class="px-1 text-center text-2xl font-light text-my-nvy1">Product Design</p>
+		  <p class="px-1 text-center text-2xl font-light text-my-nvy1">Machine Design</p>
 		</div>
+		<p class="pb-12 text-center text-2xl font-thin text-my-nvy1">And much more.</p>
+		<div class="flex justify-center gap-5">
+		  <a class="flex items-center gap-1 rounded-full bg-gradient-to-r from-my-nvy1 to-pink-800 py-2 px-3 text-xl text-white" href="/services"
+			>Learn More
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-6 w-6">
+			  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+			</svg>
+		  </a>
+		  <a class="flex items-center gap-1 rounded-full bg-gradient-to-r from-my-nvy2 to-gray-500 py-2 px-3 text-xl text-white" href="/contact"
+			>Contact Us
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-6 w-6">
+			  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+			</svg>
+		  </a>
+		</div>
+	  </div>
 	</div>
-	<section class=" hidden ">
-		<div class="relative items-center w-full px-5 py-10 mx-auto md:px-12 lg:px-24 max-w-7xl">
-			<div class="grid w-full grid-cols-1 gap-6 mx-auto lg:grid-cols-3">				
-				{#each dat as i}
-					
-				<div class="p-6">
-					<img class="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl" src="{i.imgsrc}" alt="blog">
-					<h2 class="mb-2 text-xs font-semibold tracking-widest text-my-nvy1 uppercase">{i.small}</h2>
-					<h1 class="mx-auto mb-2 text-2xl font-semibold leading-none tracking-tighter text-white lg:text-3xl">{i.title}</h1>
-					<div class="mt-4">
-						<a href="/" class="inline-flex items-center mt-4 font-semibold text-my-nvy1 lg:mb-0 hover:text-neutral-600" title="read more"> Read More » </a>
-					</div>
-				</div>
-				{/each}
-			</div>
-		</div>
-	</section>
-</div>
-
+  </div>
+  
 
 <style>
     .yooyo{
