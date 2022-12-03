@@ -1,7 +1,5 @@
 <div class="bg-cover bg-no-repeat bg-center bacImg  min-h-screen p-10">
-   <div class="h-screen backdrop-blur-sm p-10">
-
-   </div>
+  
 </div>
 <style>
 .bacImg{

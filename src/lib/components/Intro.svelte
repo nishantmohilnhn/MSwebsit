@@ -12,7 +12,7 @@
 			<p class="text-center text-2xl font-thin text-my-nvy1 pb-16">And much more.</p>
 		</div>
 	</div>
-	<section class=" hidden sm:block">
+	<section class=" hidden ">
 		<div class="relative items-center w-full px-5 py-10 mx-auto md:px-12 lg:px-24 max-w-7xl">
 			<div class="grid w-full grid-cols-1 gap-6 mx-auto lg:grid-cols-3">				
 				{#each dat as i}
@@ -22,7 +22,7 @@
 					<h2 class="mb-2 text-xs font-semibold tracking-widest text-my-nvy1 uppercase">{i.small}</h2>
 					<h1 class="mx-auto mb-2 text-2xl font-semibold leading-none tracking-tighter text-white lg:text-3xl">{i.title}</h1>
 					<div class="mt-4">
-						<a href="#" class="inline-flex items-center mt-4 font-semibold text-my-nvy1 lg:mb-0 hover:text-neutral-600" title="read more"> Read More » </a>
+						<a href="/" class="inline-flex items-center mt-4 font-semibold text-my-nvy1 lg:mb-0 hover:text-neutral-600" title="read more"> Read More » </a>
 					</div>
 				</div>
 				{/each}
