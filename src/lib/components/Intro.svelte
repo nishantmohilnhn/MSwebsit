@@ -1,7 +1,7 @@
 <div class=" relative yooyo min-h-screen bg-cover bg-no-repeat  bg-center">
 	<div class="  text-5xl w-full h-full ">
 		<div>
-			<p class="pt-20 text-center text-4xl font-extrabold text-my-nvy1 md:text-6xl">
+			<p class="pt-20 text-center text-4xl font-extrabold md:text-6xl bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-my-nvy1">
 				Grow your business,<br />Succeed with Us.
 			</p>
 			<div class="mt-2 flex justify-center flex-wrap gap-3 ">
