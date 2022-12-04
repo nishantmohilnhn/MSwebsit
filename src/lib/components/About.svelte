@@ -1,33 +1,12 @@
-<div class="relative ">
-	<div class=" relative  max-w-md  mx-auto z-50">
+<div class="  ddd relative  min-h-screen bg-cover bg-center bg-no-repeat">
+	<div class=" relative  max-w-md  mx-auto">
 		<h1 class="text-center font-extrabold text-4xl ">About us</h1>
 		<p class=" text-center pt-2 m-2 max-w-xl mx-auto ">Our Product Design are enjoyable(Appropriate),worthy to skin and feel like Free. Before you choose a good  Product Design , seek Experts Help . (we are here to help you, but other consultants can also do it for you). Our design base on your budget, your market area , your competitor's product design and Quality. </p>
 		</div>
-	<div class="custom-shape-divider-top-1670084957 z-10">
-		<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-			<path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-		</svg>
-	</div>
-	
 </div>
 <style>
-	.custom-shape-divider-top-1670084957 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
+    .ddd{
+	background-image: url("data:image/svg+xml,%3Csvg id='visual' viewBox='0 0 960 540' width='960' height='540' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'%3E%3Cpath d='M0 139L22.8 135.3C45.7 131.7 91.3 124.3 137 129C182.7 133.7 228.3 150.3 274 150.5C319.7 150.7 365.3 134.3 411.2 134.2C457 134 503 150 548.8 155.2C594.7 160.3 640.3 154.7 686 153.2C731.7 151.7 777.3 154.3 823 157.2C868.7 160 914.3 163 937.2 164.5L960 166L960 0L937.2 0C914.3 0 868.7 0 823 0C777.3 0 731.7 0 686 0C640.3 0 594.7 0 548.8 0C503 0 457 0 411.2 0C365.3 0 319.7 0 274 0C228.3 0 182.7 0 137 0C91.3 0 45.7 0 22.8 0L0 0Z' fill='%237ee1cc'%3E%3C/path%3E%3Cpath d='M0 123L22.8 118.5C45.7 114 91.3 105 137 104.8C182.7 104.7 228.3 113.3 274 114.7C319.7 116 365.3 110 411.2 104.3C457 98.7 503 93.3 548.8 97.2C594.7 101 640.3 114 686 115C731.7 116 777.3 105 823 102.3C868.7 99.7 914.3 105.3 937.2 108.2L960 111L960 0L937.2 0C914.3 0 868.7 0 823 0C777.3 0 731.7 0 686 0C640.3 0 594.7 0 548.8 0C503 0 457 0 411.2 0C365.3 0 319.7 0 274 0C228.3 0 182.7 0 137 0C91.3 0 45.7 0 22.8 0L0 0Z' fill='%2367cdba'%3E%3C/path%3E%3Cpath d='M0 87L22.8 89C45.7 91 91.3 95 137 99.2C182.7 103.3 228.3 107.7 274 105.8C319.7 104 365.3 96 411.2 88C457 80 503 72 548.8 72.8C594.7 73.7 640.3 83.3 686 91.5C731.7 99.7 777.3 106.3 823 107.5C868.7 108.7 914.3 104.3 937.2 102.2L960 100L960 0L937.2 0C914.3 0 868.7 0 823 0C777.3 0 731.7 0 686 0C640.3 0 594.7 0 548.8 0C503 0 457 0 411.2 0C365.3 0 319.7 0 274 0C228.3 0 182.7 0 137 0C91.3 0 45.7 0 22.8 0L0 0Z' fill='%234fbaa9'%3E%3C/path%3E%3Cpath d='M0 70L22.8 68C45.7 66 91.3 62 137 64C182.7 66 228.3 74 274 73.8C319.7 73.7 365.3 65.3 411.2 59.7C457 54 503 51 548.8 55.2C594.7 59.3 640.3 70.7 686 71.5C731.7 72.3 777.3 62.7 823 55.7C868.7 48.7 914.3 44.3 937.2 42.2L960 40L960 0L937.2 0C914.3 0 868.7 0 823 0C777.3 0 731.7 0 686 0C640.3 0 594.7 0 548.8 0C503 0 457 0 411.2 0C365.3 0 319.7 0 274 0C228.3 0 182.7 0 137 0C91.3 0 45.7 0 22.8 0L0 0Z' fill='%2335a798'%3E%3C/path%3E%3Cpath d='M0 27L22.8 26.5C45.7 26 91.3 25 137 28.3C182.7 31.7 228.3 39.3 274 39.8C319.7 40.3 365.3 33.7 411.2 34.7C457 35.7 503 44.3 548.8 46.3C594.7 48.3 640.3 43.7 686 42.5C731.7 41.3 777.3 43.7 823 42.5C868.7 41.3 914.3 36.7 937.2 34.3L960 32L960 0L937.2 0C914.3 0 868.7 0 823 0C777.3 0 731.7 0 686 0C640.3 0 594.7 0 548.8 0C503 0 457 0 411.2 0C365.3 0 319.7 0 274 0C228.3 0 182.7 0 137 0C91.3 0 45.7 0 22.8 0L0 0Z' fill='%230d9488'%3E%3C/path%3E%3C/svg%3E");
 }
 
-.custom-shape-divider-top-1670084957 svg {
-    position: relative;
-    display: block;
-    width: calc(100% + 1.3px);
-    height: 150px;
-}
-
-.custom-shape-divider-top-1670084957 .shape-fill {
-    fill: #7EE1CC;
-}
 </style>
