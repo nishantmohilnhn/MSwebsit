@@ -16,7 +16,7 @@
 					stroke-linecap="round"
 					stroke-linejoin="round"
 					stroke-width="2"
-					class="h-10 w-10 rounded-full bg-teal-600 p-2 text-white"
+					class="h-10 w-10 rounded-full bg-gradient-to-r from-my-nvy1 to-pink-800 p-2 text-white"
 					viewBox="0 0 24 24"
 				>
 					<path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
