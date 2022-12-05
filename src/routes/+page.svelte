@@ -1,7 +1,11 @@
 <script>
-	import About from "$lib/components/About.svelte";
-import Intro from "$lib/components/Intro.svelte";
-
+	import Featured from '$lib/components/Featured.svelte';
+	import Intro from '$lib/components/Intro.svelte';
+	import Prod from '$lib/components/Prod.svelte';
 </script>
-<Intro/>
-<About/>
+
+<section class="">
+	<Intro />
+	<Featured/>
+	<Prod />
+</section>

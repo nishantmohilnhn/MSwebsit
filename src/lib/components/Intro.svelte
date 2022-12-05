@@ -33,9 +33,9 @@
 				<p class="px-1 text-center text-2xl font-light text-my-nvy1">Machine Design</p>
 			</div>
 			<p class="pb-12 text-center text-2xl font-thin text-my-nvy1">And much more.</p>
-			<div class="flex justify-center gap-2">
+			<div class="flex  flex-col sm:flex-row justify-center gap-2">
 				<a
-					class="flex items-center gap-1 rounded-full bg-gradient-to-r from-my-nvy1 to-pink-800 py-2 px-3 text-xl text-white"
+					class="flex items-center justify-center gap-1 rounded-full bg-gradient-to-r from-my-nvy1 to-pink-800 py-2 px-3 text-xl text-white mx-5 sm:mx-0"
 					href="/services"
 					>Learn More
 					<svg
@@ -50,7 +50,7 @@
 					</svg>
 				</a>
 				<a
-					class="flex items-center gap-1 rounded-full bg-gradient-to-r from-my-nvy2 to-gray-500 py-2 px-3 text-xl text-white"
+					class="flex items-center justify-center gap-1 rounded-full bg-gradient-to-r from-my-nvy2 to-gray-500 py-2 px-3 text-xl text-white text-center mx-5"
 					href="/contact"
 					>Contact Us
 					<svg
@@ -67,12 +67,8 @@
 			</div>
 		</div>
 	</div>
-	<div class=" relative ">
-
-
-
-	</div>
 </div>
 
 <style>
+	
 </style>
