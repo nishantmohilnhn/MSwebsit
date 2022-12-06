@@ -18,7 +18,7 @@
 	];
 </script>
 
-<div class="relative  py-20">
+<div class="relative  py-20 h-screen">
 	<div class=" text-5xl">
 		<div>
 			<p class="text-center text-sm font-semibold text-my-nvy1">Personal Hygiene Solution</p>
@@ -35,7 +35,7 @@
 			<p class="pb-12 text-center text-2xl font-thin text-my-nvy1">And much more.</p>
 			<div class="flex  flex-col sm:flex-row justify-center gap-2">
 				<a
-					class="flex items-center justify-center gap-1 rounded-full bg-gradient-to-r from-my-nvy1 to-pink-800 py-2 px-3 text-xl text-white mx-5 sm:mx-0"
+					class="flex drop-shadow-2xl items-center justify-center gap-1 rounded-full bg-gradient-to-r from-my-nvy1 to-pink-800 py-2 px-3 text-xl text-white mx-5 sm:mx-0"
 					href="/services"
 					>Learn More
 					<svg
@@ -50,7 +50,7 @@
 					</svg>
 				</a>
 				<a
-					class="flex items-center justify-center gap-1 rounded-full bg-gradient-to-r from-my-nvy2 to-gray-500 py-2 px-3 text-xl text-white text-center mx-5"
+					class="flex drop-shadow-2xl items-center justify-center gap-1 rounded-full bg-gradient-to-r from-my-nvy2 to-gray-500 py-2 px-3 text-xl text-white text-center mx-5"
 					href="/contact"
 					>Contact Us
 					<svg
@@ -70,5 +70,4 @@
 </div>
 
 <style>
-	
 </style>

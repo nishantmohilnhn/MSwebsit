@@ -35,8 +35,8 @@
 	];
 </script>
 
-<section class=" body-font ">
-	<div class="container px-5 py-24 mx-auto">
+<section class="">
+	<div class="container px-5 py-14 mx-auto">
 		<div class="flex flex-col text-center w-full mb-20">
 			<h2 class="text-xs text-my-purp1 tracking-widest font-medium title-font mb-1">
 				Our Services
@@ -77,9 +77,5 @@
 				</div>
 			{/each}
 		</div>
-		<button
-			class="flex mx-auto mt-16 text-white bg-my-nvy1 border-0 py-2 px-8 focus:outline-none hover:bg-my-blue rounded text-lg"
-			>Button</button
-		>
 	</div>
 </section>
