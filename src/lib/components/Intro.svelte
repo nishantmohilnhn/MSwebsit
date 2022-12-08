@@ -18,7 +18,7 @@
 	];
 </script>
 
-<div class="relative  py-20 h-screen">
+<div class="relative  py-20 ">
 	<div class=" text-5xl">
 		<div>
 			<p class="text-center text-sm font-semibold text-my-nvy1">Personal Hygiene Solution</p>
