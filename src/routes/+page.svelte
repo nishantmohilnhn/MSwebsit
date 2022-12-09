@@ -8,9 +8,5 @@
 
 <section class="">
 	<Intro />
-	<Featured/>
-	<BackToTop/>
-	<Prod />
-	
 </section>
 
