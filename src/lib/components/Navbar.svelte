@@ -5,11 +5,11 @@
 	}
   </script>
   
-  <div class="sticky top-0 z-50 w-full bg-white bg-opacity-80 backdrop-blur-lg sm:bg-opacity-60">
+  <div class="sticky top-0 z-50 w-full bg-opacity-80 backdrop-blur-lg sm:bg-opacity-60">
 	<div class="items-center justify-between sm:flex lg:justify-around">
 	  <div class="flex items-center justify-between">
 		<a class="m-1 flex shrink-0 items-center gap-1 p-1" href="/">
-		  <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="h-10 w-10 rounded-full bg-teal-600 p-2 text-white" viewBox="0 0 24 24">
+		  <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="h-10 w-10 rounded-full bg-gradient-to-r from-my-nvy1 to-pink-800 p-2 text-white" viewBox="0 0 24 24">
 			<path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
 		  </svg>
 		  <h1 class="text-xl font-bold">DiaperExperts</h1>
