@@ -8,5 +8,6 @@
 
 <section class="">
 	<Intro />
+	<Featured/>
 </section>
 

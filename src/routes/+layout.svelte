@@ -7,5 +7,4 @@ import Navbar from "$lib/components/Navbar.svelte";
   <div class="">
   <Navbar/>
   <slot />
-  <ActionButton/>
   </div>

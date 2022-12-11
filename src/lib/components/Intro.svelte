@@ -18,7 +18,7 @@
 	];
 </script>
 
-<div class=" flex  items-center justify-center h-screen min-h-screen bg-cover bg-no-repeat bg-fixed bg-center momo">
+<div class=" flex  items-center justify-center min-h-screen bg-cover bg-no-repeat bg-center momo">
 	<div class=" text-5xl">
 		<div>
 			<p class="text-center text-sm font-semibold text-my-nvy1">Personal Hygiene Solution</p>
