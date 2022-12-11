@@ -1,26 +1,18 @@
 <script>
-	let dat = [
-		{
-			imgsrc: 'http://picsum.photos/id/950/500',
-			small: 'shotr title',
-			title: 'Short length headline to use as a title.'
-		},
-		{
-			imgsrc: 'http://picsum.photos/id/952/500',
-			small: 'shotr title',
-			title: 'Short length headline to use as a title.'
-		},
-		{
-			imgsrc: 'http://picsum.photos/id/953/500',
-			small: 'shotr title',
-			title: 'Short length headline to use as a title.'
-		}
-	];
+	import { onMount } from "svelte";
+	import { fly } from "svelte/transition";
+	let visible = false;
+
+	onMount(()=>visible=true)
 </script>
 
+	
+}
 <div class=" flex  items-center justify-center min-h-screen bg-cover bg-no-repeat bg-center momo">
 	<div class=" text-5xl">
-		<div>
+		{#if visible}
+		<div in:fly="{{delay: 250, duration: 3000,x:-200}}">
+			
 			<p class="text-center text-sm font-semibold text-my-nvy1">Personal Hygiene Solution</p>
 			<p
 				class="bg-gradient-to-r from-my-nvy1 to-pink-800 bg-clip-text text-center text-4xl font-extrabold text-transparent md:text-6xl"
@@ -66,8 +58,8 @@
 				</a>
 			</div>
 		</div>
+		{/if}
 	</div>
-	
 </div>
 
 <style>
