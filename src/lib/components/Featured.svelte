@@ -1,4 +1,4 @@
-<section class="bg-pink-800"> 
+<section class=" sm:bg-dob bg-pink-800"> 
 	<div class="relative sm:mx-auto max-w-7xl p-2">
 	  <div class="grid max-w-lg gap-3 mx-auto mt-1 lg:grid-cols-3 lg:max-w-none">
 		<div class="flex flex-col mb-3 overflow-hidden cursor-pointer border-x border-y bg-neutral-50 shadow-2xl p-3 rounded-xl">
