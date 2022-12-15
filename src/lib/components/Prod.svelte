@@ -51,29 +51,3 @@
 	];
 </script>
 
-<section class="mt-4">
-	<h1 class="text-center text-2xl font-extrabold text-my-nvy1">Product Design</h1>
-	<p class="mt-2 font-Roboto p-2 text-center font-semibold text-gray-700">
-		We Have Provided the Design of the Quality Product List are According to below.
-	</p>
-	<section class=" ">
-		<div class=" static items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-24 max-w-7xl">
-			<div class="grid w-full grid-cols-1 gap-6 mx-auto lg:grid-cols-3">
-				{#each productsTypes as i}
-					
-				<div class="p-6">
-					<img class="object-cover object-center w-full mb-8  lg:h-48 h-36 rounded-xl" src="{i.imgsrc}" alt="blog">
-					<div class="inline-flex justify-between w-full">
-						<h1 class="mb-8 text-xl font-semibold leading-none tracking-tighter text-neutral-600">{i.title}.</h1>
-						<span>$00.00</span>
-					</div>
-					<p class="mx-auto text-base font-medium leading-relaxed text-gray-500">{i.subtitel}</p>
-				
-				</div>
-				{/each}	
-
-			</div>
-		</div>
-	</section>
-	<!-- product segment--->
-</section>
